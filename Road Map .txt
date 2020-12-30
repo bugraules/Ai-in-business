@@ -1,0 +1,25 @@
+GOAL: You will not need to launch the annotation job; you are only creating 
+one to demonstrate your ability to create a dataset.
+
+- One of your biggest tasks will be to design an appropriate data 
+labeling job using
+https://client.appen.com/jobs
+
+- submit an HTML file of a complete job Preview, which includes:
+1. Instructions for annotation and 2. Example test questions.
+
+- submit a Proposal document that discusses the design of the job 
+and steps you'll take for quality assurance.
+
+- You may choose to have annotators try to label an image as pneumonia 
+or not (binary classification); if this is the case, you should include 
+an Unknown or Other option to account for uncertainty in an annotation.
+
+- You may also choose to have annotators describe how likely they think 
+a case of pneumonia is in a given image, and you could measure this on 
+a numerical scale; 0-n for their confidence that an image contains pneumonia 
+symptoms or not. A scale like this automatically includes room for low-confidence 
+and uncertainty.
+
+- In your Proposal document, you will discuss your design choices and methods for 
+quality assurance.
